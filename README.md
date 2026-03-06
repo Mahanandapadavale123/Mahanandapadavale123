@@ -16,20 +16,14 @@ Here are some ideas to get you started:
 -->
 
 # Welcome To My Profile 👋
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+Developer;MERN+Stack+Developer;Open+Source+Learner" />
 
 ## 🙋 About Me
 - 💻 MERN Stack Developer
 - 🌱 Learning React and Node.js
 - 🎯 Goal: Become Full Stack Developer
 
-## 🚀 Skills
-- HTML
-- CSS
-- JavaScript
-- React
-- Node.js
-- MongoDB
+## 🚀 Tech Stack
+JavaScript | React | Node.js | Express | MongoDB | Git | PHP | MySQL | Wordpress
 
-## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Mahanandapadavale123&show_icons=true&theme=radical)
