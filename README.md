@@ -16,12 +16,16 @@ Here are some ideas to get you started:
 -->
 
 # Welcome To My Profile 👋
-<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+Developer;MERN+Stack+Developer;Open+Source+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+Developer;MERN+Stack+Developer;Software+Developer" />
+
+💻 MERN Stack Developer  
+🌱 Currently learning Full Stack Development  
+🎯 Goal: Become a strong Software Developer  
 
 ## 🙋 About Me
-- 💻 MERN Stack Developer
-- 🌱 Learning React and Node.js
-- 🎯 Goal: Become Full Stack Developer
+- 💼 Junior Software Developer  
+- 🚀 Working with MERN Stack  
+- 📚 Learning new technologies every day  
 
 ## 🚀 Tech Stack
 JavaScript | React | Node.js | Express | MongoDB | Git | PHP | MySQL | Wordpress
